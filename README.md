@@ -1,4 +1,4 @@
-# Horiseon Challenge
+# HORISEON CHALLENGE 
 ## Description
 The Horiseon Website has be refactored to make it more accessible.  
 Various elements of the sites CSS and HTML have been revised.  
@@ -8,6 +8,6 @@ Various elements of the sites CSS and HTML have been revised.
 ## Website
 https://hmarkestrad.github.io/Challenges/  
 ## Contribution
-Made with ❤️ by Hector Mark Estrada  
+Made by Hector Mark Estrada • 12-19-2021  
 
 Repository contains quality README file with description, screenshot, and link to deployed application.
