@@ -1,5 +1,13 @@
-# UT Course Challenges README	General information
-AUTHORS	H. Mark Estrada
-DATE 12/19/2021
-INSTALL	HTML or Browser
-BUGS	No Known bugs oe Errors
+# Horiseon Challenge
+## Purpose
+Refactoring existing website code
+
+## Built With
+* HTML
+* CSS
+
+## Website
+ https://hmarkestrad.github.io/Challenges/
+
+## Contribution
+Made with ❤️ by Hector Mark Estrada.
